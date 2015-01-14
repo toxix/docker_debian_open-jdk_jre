@@ -1,2 +1,2 @@
 # Dockerfile for an open-jdk jre
-Debian based openjdk javaruntime environment
+Debian stable based openjdk 7 javaruntime environment
