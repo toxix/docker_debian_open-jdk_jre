@@ -1,2 +1,2 @@
-# docker_debian_open-jdk_jre
-Debian based openjdk jre
+# Dockerfile for an open-jdk jre
+Debian based openjdk javaruntime environment
